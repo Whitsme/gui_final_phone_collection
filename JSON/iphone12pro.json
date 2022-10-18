@@ -1,0 +1,10 @@
+{
+  "id": "iphone12pro",
+  "brand": "Apple",
+  "model": "iPhone 12 Pro",
+  "year": "2020",
+  "screensize":"6.0",
+  "screensizeunit":"in",
+  "mass":"189",
+  "price": "999"
+}

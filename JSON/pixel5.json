@@ -1,0 +1,10 @@
+{
+  "id": "pixel5",
+  "brand": "Google",
+  "model": "Pixel 5",
+  "year": "2020",
+  "screensize":"6.0",
+  "screensizeunit":"in",
+  "mass":"151",
+  "price": "699"
+}

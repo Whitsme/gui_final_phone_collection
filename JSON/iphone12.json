@@ -1,0 +1,10 @@
+{
+  "id": "iphone12",
+  "brand": "Apple",
+  "model": "iPhone 12",
+  "year": "2020",
+  "screensize": "6.1",
+  "screensizeunit": "in",
+  "mass": "162",
+  "price": "799"
+}

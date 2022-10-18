@@ -1,0 +1,10 @@
+{
+  "id": "iphone12mini",
+  "brand": "Apple",
+  "model": "iPhone 12 Mini",
+  "year": "2020",
+  "screensize":"5.4",
+  "screensizeunit":"in",
+  "mass":"133",
+  "price": "699"
+}
